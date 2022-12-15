@@ -1,8 +1,10 @@
 /* 
-Assignment 11
-Name:- Tanmay Pardeshi
-Roll number:- 23260
-Batch:- H10
+Department maintains student’s database. The file contains roll number, name, division and address.
+Write a program to create a sequential file to store and maintain student data. It should allow the
+user to add, delete information of student. Display information of particular student. If record of
+student does not exist an appropriate message is displayed. If student record is found it should
+display the student details.
+
 */
 
 #include <iostream>
